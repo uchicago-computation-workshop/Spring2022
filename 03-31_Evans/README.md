@@ -1,10 +1,21 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
+
+
+
 
 
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> James Evans </h1>
+<h1 class=pfblock-header3> James Evans</h1>
 <h3 class=pfblock-header3> Department of Sociology </h3>
 <h3 class=pfblock-header3> University of Chicago </h3>
 
@@ -61,9 +72,9 @@
 
 This week's readings:
 
-- [Xu, F., Wu, L., & Evans, J. (2022). Flat Teams Drive Scientific Innovation. arXiv preprint arXiv:2201.06726.](evans1.pdf)
+- [Xu, F., Wu, L., & Evans, J. (2022). Flat Teams Drive Scientific Innovation. arXiv preprint arXiv:2201.06726.](https://github.com/uchicago-computation-workshop/Spring2022/blob/master/03-31_Evans/evans1.pdf)
+- [Cui, H., Wu, L., & Evans, J. A. (2022). Aging Scientists and Slowed Advance. arXiv preprint arXiv:2202.04044.](https://github.com/uchicago-computation-workshop/Spring2022/blob/master/03-31_Evans/evans2.pdf)
 
-- [Cui, H., Wu, L., & Evans, J. A. (2022). Aging Scientists and Slowed Advance. arXiv preprint arXiv:2202.04044.](evans2.pdf)
 
 <br>
 
@@ -71,7 +82,7 @@ This week's readings:
 
 ---
 
-<p class=footertext> The 2021-2022 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 9:30 a.m. to 10:50 a.m. All interested faculty and graduate students are welcome.</p>
+<p class=footertext> The 2021-2022 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 9:30 a.m. to 10:50 p.m. All interested faculty and graduate students are welcome.</p>
 
 
 
