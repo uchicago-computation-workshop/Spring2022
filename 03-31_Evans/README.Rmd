@@ -102,7 +102,7 @@ readings1 <- paste0("[", week_paper_ref1,"](https://github.com/uchicago-computat
 
 <p class=footertext2>
 
-**Attendance**: The talk will be held in-person.
+**Attendance**: The talk will be held in-person in room 295..
 </p>
 
 <p class=footertext2>

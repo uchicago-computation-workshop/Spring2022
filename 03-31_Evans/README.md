@@ -38,7 +38,7 @@
 <br>
 
 <h4 class=pfblock-header3> Thursday, 03/31/2022 </h4>
-<h4 class=pfblock-header3> 9:30am-10:50pm </h4>
+<h4 class=pfblock-header3> 9:30am-10:50am </h4>
 
 <br><br>
 
@@ -52,7 +52,7 @@
 
 <p class=footertext2>
 
-**Attendance**: The talk will be held in-person.
+**Attendance**: The talk will be held in-person in room 295.
 </p>
 
 <p class=footertext2>
@@ -71,7 +71,7 @@ This week's readings:
 
 ---
 
-<p class=footertext> The 2021-2022 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 9:30 a.m. to 10:50 a.m.. All interested faculty and graduate students are welcome.</p>
+<p class=footertext> The 2021-2022 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 9:30 a.m. to 10:50 a.m. All interested faculty and graduate students are welcome.</p>
 
 
 
