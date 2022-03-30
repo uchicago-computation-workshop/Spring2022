@@ -20,7 +20,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Spring2022/tree/master/03-31_Evans> TBD </a>
+  <a href=https://github.com/uchicago-computation-workshop/Spring2022/tree/master/03-31_Evans> The Social and Biographical Locus of Innovation </a>
 </h2>
 
 <br>
@@ -30,7 +30,7 @@
 
 <p class=footertext2>
 
-**Summary:** TBD
+**Summary:** In this talk, I explore the social, biographical and demographical locus of innovation in science, scholarship and technological development. With teams growing in all areas of scientific and scholarly research, I first explore the relationship between team structure and the character of innvation they produce. Drawing on 89,575 self-reports of team member research activity underlying scientific publications, I show how individual activities cohere into broad roles of (1) leadership through the direction and presentation of research and (2) support through data collection, analysis and discussion. The hidden hierarchy of a scientific team is characterized by its lead (or L)-ratio of members playing leadership roles to total team size. The L-ratio is validated through correlation with imputed contributions to the specific paper and to science as a whole, which I use to effectively extrapolate the L-ratio for 16,397,750 papers where roles are not explicit. I show that relative to flat, egalitarian teams, tall, hierarchical teams produce less novelty and more often develop existing ideas; increase productivity for those on top and decrease it for those beneath; increase short-term citations but decrease long-term influence. These effects hold within-person -- the same person on the same-sized team produces science much more likely to disruptively innovate if they work on a flat, high L-ratio team. These results suggest the critical role flat teams play for sustainable scientific advance and the training and advancement of scientists. I then explore how with rising life expectancies around the world and an older scientific workforce than ever before, what aging means for individual scientists and what aging scientists mean for scientific progress? Prior research focuses on star scientists, their changing dates and rates of breakthrough success across history. I examine how all scientists and scholars age in terms of how their stream of ideas and contributions relate to the evolving frontier of knowledge, and how demographically aging fields relate to field-level progress. Analyzing more than 244 million scholars across 241 million articles over the last two centuries, here I show that for all fields, periods, and impact levels, scientists’ research ideas and references age over time, their research is less likely to disrupt the state of science and more likely to criticize emerging work. Early success accelerates scientist aging; while changing institutions and fields and collaborating with young scientists slows it. These patterns aggregate within fields such that those with a higher proportion of older scientists experience a lower churn of ideas and more rapid individual aging, suggesting a universal link between aging, activity, and advance.
 
 
 </p>
@@ -57,12 +57,13 @@
 
 <p class=footertext2>
 
-**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a group comment (one post/group) on the issues <a href= https://github.com/uchicago-computation-workshop/Spring2022/issues/1> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
+**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting an individual question or comment on the issues <a href= https://github.com/uchicago-computation-workshop/Spring2022/issues/1> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
 
 This week's readings:
 
-- [Stier, A. J., Cardenas-Iniguez, C., Kardan, O. J., Moore, T. M., Meyer, F. A., Rosenberg, M. D., ... & Berman, M. G. (2021). A Scale-Free Gradient of Cognitive Resource Disruptions in Childhood Psychopathology. bioRxiv.](berman_reading1.pdf)
+- [Xu, F., Wu, L., & Evans, J. (2022). Flat Teams Drive Scientific Innovation. arXiv preprint arXiv:2201.06726.](evans1.pdf)
 
+- [Cui, H., Wu, L., & Evans, J. A. (2022). Aging Scientists and Slowed Advance. arXiv preprint arXiv:2202.04044.](evans2.pdf)
 
 <br>
 
@@ -74,4 +75,4 @@ This week's readings:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Spring2022/issues/1>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Spring2022/tree/master/03-31_Evans>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a question or comment on the <a href=https://github.com/uchicago-computation-workshop/Spring2022/issues/1>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Spring2022/tree/master/03-31_Evans>workshop's public repository on GitHub.</a></p>
