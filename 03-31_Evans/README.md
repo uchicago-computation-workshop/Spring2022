@@ -52,7 +52,7 @@
 
 <p class=footertext2>
 
-**Attendance**: The talk will be held in-person in room 295.
+**Attendance**: The talk will be held in-person in room 295 of 1155 E 60th Street.
 </p>
 
 <p class=footertext2>
