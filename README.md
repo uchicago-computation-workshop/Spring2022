@@ -13,5 +13,5 @@
 
 ### April 14th - [Nathan Srebro](https://github.com/uchicago-computation-workshop/Spring2022/tree/master/04-14_Srebro)
 
-<div><img src="https://nati.ttic.edu/nati.jpg" width="240" height="240"></div>
+<div><img src="https://nati.ttic.edu/nati.jpg" width="220" height="240"></div>
 
