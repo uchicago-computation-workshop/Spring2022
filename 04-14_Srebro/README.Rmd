@@ -20,7 +20,7 @@ week_folder <- "04-14_Srebro"
 title <- "What do we mean by 'non-discriminatory' in statistical prediction tasks?"
 
 
-speaker <- "Nathan Srebrol"
+speaker <- "Nathan Srebro"
 department <- "TTIC"
 university <- "University of Chicago"
 github_home <- "https://github.com/uchicago-computation-workshop"

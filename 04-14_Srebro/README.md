@@ -1,3 +1,14 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
+
+
+
 
 
 <br>
@@ -46,7 +57,6 @@
 **Nathan Srebro** is a professor at the Toyota Technological Institute at Chicago, with cross-appointments at the University of Chicago's Department of Computer Science, and Committee on Computational and Applied Mathematics. He obtained his PhD from the Massachusetts Institute of Technology in 2004, and previously was a postdoctoral fellow at the University of Toronto, a visiting scientist at IBM, and an associate professor at the Technion.
 
 
-
 </p>
 
 <br>
@@ -63,7 +73,6 @@
 This week's readings:
 
 - [Hardt, M., Price, E., & Srebro, N. (2016). Equality of opportunity in supervised learning. Advances in neural information processing systems, 29.](https://github.com/uchicago-computation-workshop/Spring2022/blob/master/04-14_Srebro/srebro_reading.pdf)
-
 
 <br>
 
