@@ -11,3 +11,7 @@
 
 <div><img src="https://www.chicagobooth.edu/-/media/project/chicago-booth/faculty-and-insights/faculty/max-farrell/chicago-booth-max-farrell.jpg?cx=0.65&cy=0.35&cw=749&ch=940&hash=56A4586A1057CB04E459DA59E9104FFD" width="210" height="240"></div>
 
+### April 14th - [Nathan Srebro](https://github.com/uchicago-computation-workshop/Spring2022/tree/master/04-14_Srebro)
+
+<div><img src="https://nati.ttic.edu/nati.jpg" width="210" height="240"></div>
+
