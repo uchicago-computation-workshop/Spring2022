@@ -20,7 +20,7 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Spring2022/tree/master/04-14_Srebro> What do we mean by 'non-discriminatory' in statiscal prediction tasks? </a>
+  <a href=https://github.com/uchicago-computation-workshop/Spring2022/tree/master/04-14_Srebro> What do we mean by 'non-discriminatory' in statistical prediction tasks? </a>
 </h2>
 
 <br>

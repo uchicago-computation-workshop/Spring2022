@@ -17,7 +17,7 @@ quarter <- "Spring2022"
 week_folder <- "04-14_Srebro"
 
 
-title <- "What do we mean by 'non-discriminatory' in statiscal prediction tasks?"
+title <- "What do we mean by 'non-discriminatory' in statistical prediction tasks?"
 
 
 speaker <- "Nathan Srebrol"
