@@ -31,7 +31,7 @@ issues_url <- "https://github.com/uchicago-computation-workshop/Spring2022/issue
 
 #Papers
 
-week_paper_ref0 <- "Serena Wang*, Wenshuo Guo*, Harikrishna Narasimhan, Andrew Cotter, Maya R. Gupta, Michael I. Jordan. Robust Optimization for Fairness with Noisy Protected Groups. 34th Conference on Neural Information Processing Systems (NeurIPS), 2020."
+week_paper_ref0 <- "Serena Wang, Wenshuo Guo, Harikrishna Narasimhan, Andrew Cotter, Maya R. Gupta, Michael I. Jordan. Robust Optimization for Fairness with Noisy Protected Groups. 34th Conference on Neural Information Processing Systems (NeurIPS), 2020."
 week_paper_file0 <- "wang_1.pdf"
 
 week_paper_ref1 <- "Serena Wang, Maya R. Gupta. Deontological Ethics By Monotonicity Shape Constraints. Proceedings of The 23nd International Conference on Artificial Intelligence and Statistics (AISTATS), 2020."

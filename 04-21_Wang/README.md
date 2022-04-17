@@ -1,10 +1,12 @@
 
 
+
+
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Serena Wang </h1>
+<h1 class=pfblock-header3> Serena Wang</h1>
 <h3 class=pfblock-header3> Computer Science </h3>
 <h3 class=pfblock-header3> University of California, Berkeley </h3>
 
@@ -30,7 +32,7 @@
 
 <p class=footertext2>
 
-**Summary:**  Recent literature in fair machine learning (fair ML) has focused on applying notions of fairness within a technical scope involving data, models, and prediction quality across protected groups. This talk will start by presenting two technical solutions within this framework to overcome practical challenges, including (i) enforcing group-based fairness constraints when the data is incomplete or noisy, and (ii) avoiding unfair penalization of other input features. Still, beyond these practical challenges, even the most heavily fairness-constrained ML model might fall short in satisfying societal needs due to choices in problem formulation and downstream interventions. Thus, based on qualitative work in the education domain, we expand the scope of the ML life cycle and suggest opportunities beyond the typical fairness paradigms for technical and interdisciplinary contribution.
+**Summary:** Recent literature in fair machine learning (fair ML) has focused on applying notions of fairness within a technical scope involving data, models, and prediction quality across protected groups. This talk will start by presenting two technical solutions within this framework to overcome practical challenges, including (i) enforcing group-based fairness constraints when the data is incomplete or noisy, and (ii) avoiding unfair penalization of other input features. Still, beyond these practical challenges, even the most heavily fairness-constrained ML model might fall short in satisfying societal needs due to choices in problem formulation and downstream interventions. Thus, based on qualitative work in the education domain, we expand the scope of the ML life cycle and suggest opportunities beyond the typical fairness paradigms for technical and interdisciplinary contribution.
 
 </p>
 
@@ -59,11 +61,12 @@
 
 **Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting an individual question or comment on the issues <a href= https://github.com/uchicago-computation-workshop/Spring2022/issues/4> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
 
-This week's recommended readings:
+This week's readings:
 
-- [Serena Wang*, Wenshuo Guo*, Harikrishna Narasimhan, Andrew Cotter, Maya R. Gupta, Michael I. Jordan. Robust Optimization for Fairness with Noisy Protected Groups. 34th Conference on Neural Information Processing Systems (NeurIPS), 2020.](https://github.com/uchicago-computation-workshop/Spring2022/blob/master/04-21_Wang/wang_1.pdf)
+- [Serena Wang, Wenshuo Guo, Harikrishna Narasimhan, Andrew Cotter, Maya R. Gupta, Michael I. Jordan. Robust Optimization for Fairness with Noisy Protected Groups. 34th Conference on Neural Information Processing Systems (NeurIPS), 2020.](https://github.com/uchicago-computation-workshop/Spring2022/blob/master/04-21_Wang/wang_1.pdf)
 - [Serena Wang, Maya R. Gupta. Deontological Ethics By Monotonicity Shape Constraints. Proceedings of The 23nd International Conference on Artificial Intelligence and Statistics (AISTATS), 2020.](https://github.com/uchicago-computation-workshop/Spring2022/blob/master/04-21_Wang/wang_reading2.pdf)
 - [Waters, Austin, and Risto Miikkulainen. Grade: Machine learning support for graduate admissions. Ai Magazine 35.1 (2014): 64-64.](https://github.com/uchicago-computation-workshop/Spring2022/blob/master/04-21_Wang/wang_3.pdf)
+
 <br>
 
 <br><br>
@@ -74,4 +77,4 @@ This week's recommended readings:
 
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a question or comment on the <a href=https://github.com/uchicago-computation-workshop/Spring2022/issues/4>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Spring2022/tree/master/04-14_Srebro>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a question or comment on the <a href=https://github.com/uchicago-computation-workshop/Spring2022/issues/4>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Spring2022/tree/master/04-21_Wang>workshop's public repository on GitHub.</a></p>
