@@ -15,3 +15,6 @@
 
 <div><img src="https://nati.ttic.edu/nati.jpg" width="210" height="240"></div>
 
+### April 21st - [Serena Wang](https://github.com/uchicago-computation-workshop/Spring2022/tree/master/04-21_Wang)
+
+<div><img src="serena.jpeg" width="240" height="240"></div>
