@@ -21,4 +21,4 @@
 
 ### April 28th - [Sandra Wachter](https://github.com/uchicago-computation-workshop/Spring2022/tree/master/04-28_Wachter)
 
-<div><img src="Wachter_Sandra.JPG" width="200" height="240"></div>
+<div><img src="Wachter_Sandra.JPG" width="240" height="240"></div>

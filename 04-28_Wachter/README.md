@@ -43,7 +43,7 @@
 
 <p class=footertext2>
 
-**Sandra Wachter** is an Associate Professor and Senior Research Fellow focusing on law and ethics of AI, Big Data, and robotics as well as Internet and platform regulation at the Oxford Internet Institute at the University of Oxford. Her current research focuses on profiling, inferential analytics, explainable AI, algorithmic bias, diversity, and fairness, as well as governmental surveillance, predictive policing, human rights online, and health tech and medical law.At the OII, Professor Sandra Wachter leads and coordinates the Governance of Emerging Technologies (GET) Research Programme that investigates legal, ethical, and technical aspects of AI, machine learning, and other emerging technologies.
+**Sandra Wachter** is an Associate Professor and Senior Research Fellow focusing on law and ethics of AI, Big Data, and robotics as well as Internet and platform regulation at the Oxford Internet Institute at the University of Oxford. Her current research focuses on profiling, inferential analytics, explainable AI, algorithmic bias, diversity, and fairness, as well as governmental surveillance, predictive policing, human rights online, and health tech and medical law. At the OII, Professor Sandra Wachter leads and coordinates the Governance of Emerging Technologies (GET) Research Programme that investigates legal, ethical, and technical aspects of AI, machine learning, and other emerging technologies.
 
 
 </p>
