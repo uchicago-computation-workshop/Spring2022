@@ -4,7 +4,7 @@
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
-<h1 class=pfblock-header3> Sandra Wachter </h1>
+<h1 class=pfblock-header3> Sandra Wachter</h1>
 <h3 class=pfblock-header3> Oxford Internet Institute </h3>
 <h3 class=pfblock-header3> University of Oxford </h3>
 
@@ -53,6 +53,7 @@
 <p class=footertext2>
 
 **Attendance**: The talk will be held virtually on Zoom. Please join via Zoom at the link provided: ([link](https://uchicago.zoom.us/j/94541791231?pwd=UGlNalJTc0tVYkpwWTZSM1d0bld0QT09)).
+
 </p>
 
 <p class=footertext2>
