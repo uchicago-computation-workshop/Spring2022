@@ -18,3 +18,7 @@
 ### April 21st - [Serena Wang](https://github.com/uchicago-computation-workshop/Spring2022/tree/master/04-21_Wang)
 
 <div><img src="serena.jpeg" width="200" height="240"></div>
+
+### April 28th - [Sandra Wachter](https://github.com/uchicago-computation-workshop/Spring2022/tree/master/04-28_Wachter)
+
+<div><img src="Wachter_Sandra.JPG" width="200" height="240"></div>
