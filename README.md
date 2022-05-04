@@ -13,7 +13,7 @@
 
 ### April 14th - [Nathan Srebro](https://github.com/uchicago-computation-workshop/Spring2022/tree/master/04-14_Srebro)
 
-<div><img src="https://nati.ttic.edu/nati.jpg" width="210" height="240"></div>
+<div><img src="https://nati.ttic.edu/nati.jpg" width="210" height="316"></div>
 
 ### April 21st - [Serena Wang](https://github.com/uchicago-computation-workshop/Spring2022/tree/master/04-21_Wang)
 
@@ -21,4 +21,11 @@
 
 ### April 28th - [Sandra Wachter](https://github.com/uchicago-computation-workshop/Spring2022/tree/master/04-28_Wachter)
 
-<div><img src="Wachter_Sandra.JPG" width="240" height="210"></div>
+<div><img src="Wachter_Sandra.JPG" width="360" height="240"></div>
+
+### May 5th - [David Lazer](https://github.com/uchicago-computation-workshop/Spring2022/tree/master/05-05_Lazer)
+
+<div><img src="https://cssh.northeastern.edu/wp-content/uploads/2020/01/PoliSci-Lazer2-web-600x800-c-default.jpg" width="240" height="320"></div>
+
+
+
