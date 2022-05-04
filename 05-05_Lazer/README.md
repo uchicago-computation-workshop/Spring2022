@@ -1,3 +1,5 @@
+
+
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
 <h1 class=pfblock-header3> David Lazer</h1>
@@ -58,7 +60,7 @@ He is among the leading scholars in the world on misinformation and computationa
 
 **Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting an individual question or comment on the issues <a href= https://github.com/uchicago-computation-workshop/Spring2022/issues/6> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
 
-This week's readings:
+This week's suggested readings:
 
 - [Hughes, A. G., McCabe, S. D., Hobbs, W. R., Remy, E., Shah, S., & Lazer, D. M. (2021). Using administrative records and survey data to construct samples of Tweeters and Tweets. Public Opinion Quarterly, 85(S1), 323-346.](https://github.com/uchicago-computation-workshop/Spring2022/blob/master/05-05_Lazer/Lazer_1.pdf)
 - [Grinberg, N., Joseph, K., Friedland, L., Swire-Thompson, B., & Lazer, D. (2019). Fake news on Twitter during the 2016 US presidential election. Science, 363(6425), 374-378.](https://github.com/uchicago-computation-workshop/Spring2022/blob/master/05-05_Lazer/Lazer_2.pdf)

@@ -110,7 +110,7 @@ He is among the leading scholars in the world on misinformation and computationa
 
 **Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting an individual question or comment on the issues <a href= `r issues_url`> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
 
-This week's readings:
+This week's suggested readings:
 
 - `r readings0`
 - `r readings1`
