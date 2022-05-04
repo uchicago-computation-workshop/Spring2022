@@ -1,5 +1,3 @@
-
-
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
 <h1 class=pfblock-header3> David Lazer</h1>
@@ -41,7 +39,7 @@
 
 <p class=footertext2>
 
-**David Lazerr** is a University Distinguished Professor of Political Science and Computer Sciences, Northeastern University, and Co-Director, NULab for Texts, Maps, and Networks. Prior to coming to Northeastern University, he was on the faculty at the Harvard Kennedy School (1998-2009). In 2019, he was elected a fellow to the National Academy of Public Administration. His research has been published in such journals as Science, Nature, Proceedings of the National Academy of Science, the American Political Science Review, Organization Science, and the Administrative Science Quarterly, and has received extensive coverage in the media, including the New York Times, NPR, the Washington Post, the Wall Street Journal, and CBS Evening News.
+**David Lazer** is a University Distinguished Professor of Political Science and Computer Sciences, Northeastern University, and Co-Director, NULab for Texts, Maps, and Networks. Prior to coming to Northeastern University, he was on the faculty at the Harvard Kennedy School (1998-2009). In 2019, he was elected a fellow to the National Academy of Public Administration. His research has been published in such journals as Science, Nature, Proceedings of the National Academy of Science, the American Political Science Review, Organization Science, and the Administrative Science Quarterly, and has received extensive coverage in the media, including the New York Times, NPR, the Washington Post, the Wall Street Journal, and CBS Evening News.
 
 He is among the leading scholars in the world on misinformation and computational social science and has served in multiple leadership and editorial positions, including as a board member for the International Network of Social Network Analysts (INSNA), reviewing editor for Science, associate editor of Social Networks and Network Science, numerous other editorial boards and program committees.
 
@@ -62,7 +60,7 @@ He is among the leading scholars in the world on misinformation and computationa
 
 This week's readings:
 
-- [Hughes, A. G., McCabe, S. D., Hobbs, W. R., Remy, E., Shah, S., & Lazer, D. M. (2021). Using administrative records and survey data to construct samples of Tweeters and Tweets. Public Opinion Quarterly, 85(S1), 323-346.](https://github.com/uchicago-computation-workshop/Spring2022/blob/master/05-05_Lazer/Lazer_2.pdf)
+- [Hughes, A. G., McCabe, S. D., Hobbs, W. R., Remy, E., Shah, S., & Lazer, D. M. (2021). Using administrative records and survey data to construct samples of Tweeters and Tweets. Public Opinion Quarterly, 85(S1), 323-346.](https://github.com/uchicago-computation-workshop/Spring2022/blob/master/05-05_Lazer/Lazer_1.pdf)
 - [Grinberg, N., Joseph, K., Friedland, L., Swire-Thompson, B., & Lazer, D. (2019). Fake news on Twitter during the 2016 US presidential election. Science, 363(6425), 374-378.](https://github.com/uchicago-computation-workshop/Spring2022/blob/master/05-05_Lazer/Lazer_2.pdf)
 
 <br>
