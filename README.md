@@ -27,5 +27,11 @@
 
 <div><img src="https://cssh.northeastern.edu/wp-content/uploads/2020/01/PoliSci-Lazer2-web-600x800-c-default.jpg" width="240" height="320"></div>
 
+### May 19th - [Jennifer Pan](https://github.com/uchicago-computation-workshop/Spring2022/tree/master/05-19_Pan)
+
+<div><img src="https://politicalscience.stanford.edu/sites/politicalscience/files/styles/custm_medium_portrait/public/media/capx/701841509509078694.jpg?h=1641edec&itok=B928tWKZ" width="240" height="320"></div>
+
+
+
 
 
