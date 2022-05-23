@@ -27,7 +27,7 @@ github_home <- "https://github.com/uchicago-computation-workshop"
 
 #Update Weekly
 #Update Weekly
-issues_url <- "https://github.com/uchicago-computation-workshop/Spring2022/issues/7"
+issues_url <- "https://github.com/uchicago-computation-workshop/Spring2022/issues/8"
 
 #Papers
 week_paper_ref0 <- "Mannes, A. E., Soll, J. B., & Larrick, R. P. (2014). The wisdom of select crowds. Journal of Personality and Social Psychology, 107(2), 276–299."

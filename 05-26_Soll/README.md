@@ -1,6 +1,5 @@
 
 
-
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
@@ -61,7 +60,7 @@ Professor Soll’s research focuses on the psychology of judgment and decision m
 
 <p class=footertext2>
 
-**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting an individual question or comment on the issues <a href= https://github.com/uchicago-computation-workshop/Spring2022/issues/7> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
+**Participation**: Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting an individual question or comment on the issues <a href= https://github.com/uchicago-computation-workshop/Spring2022/issues/8> page </a> of the <a href="https://github.com/uchicago-computation-workshop"> workshop's public repository.</a>
 
 This week's suggested readings:
 
@@ -79,5 +78,5 @@ https://dukefuqua.qualtrics.com/jfe/form/SV_cvg1ca6nVS49uQu
 
 <p class=footertext> The 2021-2022 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 9:30 a.m. to 10:50 a.m. All interested faculty and graduate students are welcome.</p>
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a question or comment on the <a href=https://github.com/uchicago-computation-workshop/Spring2022/issues/7>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Spring2022/tree/master/05-26_Soll>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a question or comment on the <a href=https://github.com/uchicago-computation-workshop/Spring2022/issues/8>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Spring2022/tree/master/05-26_Soll>workshop's public repository on GitHub.</a></p>
 
