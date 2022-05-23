@@ -31,8 +31,5 @@
 
 <div><img src="https://politicalscience.stanford.edu/sites/politicalscience/files/styles/custm_medium_portrait/public/media/capx/701841509509078694.jpg?h=1641edec&itok=B928tWKZ" width="240" height="320"></div>
 
-### May 26th - [Jack Soll](https://github.com/uchicago-computation-workshop/Spring2022/tree/master/05-26_Soll)
-
-<div><img src="https://www.fuqua.duke.edu/shared/images/pics/fac_staff/mkt/fs_jsoll.jpg" width="260" height="334"></div>
 
 
